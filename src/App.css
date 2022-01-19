@@ -66,3 +66,27 @@
   flex-direction: column;
   margin-top: 30px;
 }
+
+.img-desc {
+  margin: -25px 0 -10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.weather-card h1, h3{
+  margin: 10px 0px;
+}
+
+.weather-card p {
+  margin: 5px 0px;
+}
+
+.weather-card {
+  font-size: 130%;
+}
+
+.img-desc img {
+  width: 100px;
+}
